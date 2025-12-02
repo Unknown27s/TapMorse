@@ -7,7 +7,7 @@ Transform your table into an advanced Morse code input device using computer vis
 
 ## Credits
 - Built by: Unknown27s
-- Assisted by: GitHub Copilot (AI programming partner)
+- Assisted by: GitHub Copilot 
 
 ## License
 This project is open source under the MIT License. See `LICENSE` for details.
